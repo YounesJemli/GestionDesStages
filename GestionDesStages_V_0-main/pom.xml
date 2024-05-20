@@ -90,7 +90,6 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
-					<!--<mainClass>GestionDesStages_V_0.PorjGestionStagesApplication</mainClass>--!>
 					<finalName>GestionDesStages-0.0.1</finalName>
 					<excludes>
 						<exclude>
