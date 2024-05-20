@@ -9,11 +9,11 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<distributionManagement>
-		<repository>
-			<id>maven-repo-project-pfe</id>
-			<name>Nexus Repository</name>
-			<url>http:/http://192.168.174.131:8081//repository/maven-repo-project-pfe</url>
-		</repository>
+    		<repository>
+        		<id>maven-repo-project-pfe</id>
+        		<name>Nexus Repository</name>
+        		<url>http://192.168.174.131:8081/repository/maven-repo-project-pfe</url>
+    		</repository>
 	</distributionManagement>
 	<groupId>Robots.enicar</groupId>
 	<artifactId>GestionDesStages</artifactId>
